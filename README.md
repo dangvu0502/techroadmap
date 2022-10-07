@@ -22,8 +22,6 @@
 
 # Tech Roadmap
 
-test
-
 ⭐ Please click the star above on this repo, it keeps me motivated. You can also follow TechRoadmap on [Twitter](https://twitter.com/techroadmap__).🙂
 
 [Tech Roadmap](https://techroadmap.xyz) is a free online resource on careers in the tech industry.
